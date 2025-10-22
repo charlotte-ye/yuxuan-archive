@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(200, 243, 228);
-   font-family: "Onest", sans-serif;
+  margin: 0;
+  background: transparent; 
+  font-family: "Onest", sans-serif;
    font-optical-sizing: auto;
    font-weight: 400;   /* Regular */
    font-style: normal;
